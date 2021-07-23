@@ -26,8 +26,8 @@
         "numberOfWorkers": "1",
         "currentStack": "dotnet",
         "netFrameworkVersion": "v4.0",
-        "hostingPlanName": "planWebapp-pf0841",
-        "appInsight": "insights-pf0841"
+        "hostingPlanName": "planWebapp-Conversor",
+        "appInsight": "insights-Conversor"
     },
     "resources": [
         {
