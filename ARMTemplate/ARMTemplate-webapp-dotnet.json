@@ -4,7 +4,7 @@
     "parameters": {
         "webAppName": {
             "type": "string",
-            "defaultValue": "webapp-pf0841",
+            "defaultValue": "webapp-rm9999",
             "metadata": {
                 "description": "O nome da sua aplicação. Deve ser único na Azure"
             }
